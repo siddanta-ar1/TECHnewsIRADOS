@@ -1,0 +1,259 @@
+<style>
+body
+  {
+    background-color: #b47eac;
+  }
+.head-section1{
+  font-family: arial;
+  font-size: 25px;
+  color: white;
+  background-color:  #494D5F;
+  display: flex;
+  align-content:center;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+}
+.head-section1:hover{
+  cursor: pointer;
+  background-color: #ae8fa1;
+
+  color: black;
+  box-shadow: 0px 0px 1px 0px black;
+}
+.head-section2{
+
+  display: inline-block;
+  font-size: 20px;
+  align-content:center;
+  align-items: center;
+  justify-content: center;
+}
+
+button{
+  background-color:#2f0939);
+  color:black ;
+  border: solid;
+  border-radius: 12px;
+  height: 40px;
+  width: 120px;
+  align-content:center;
+  align-items: center;
+  justify-content: center;
+  
+}
+button:hover{
+  cursor: pointer;
+  background-color: #cbeac2;
+  color: black;
+  box-shadow: 0px 0px 1px 0px black;
+}
+.image0{
+  width:100%;
+  height:25%
+}
+.image0:hover{
+  cursor:pointer;
+  border:solid;
+  border-color: black;
+}
+
+.breakingnews{
+  font-family: read-write-plaintext-only;
+  font-size: 45px;
+  font-stretch: 45px;
+  color: white;
+  background-color: #494D5F;
+}
+.breakingnews:hover{
+  cursor: pointer;
+  background-color:  #494D5F
+  color: black;
+  box-shadow: 0px 0px 1px 0px black;
+}
+
+.image1{
+  height: 300;
+  width: 300px;
+  border-radius: 12px;
+  display: inline-block;
+}
+.image1:hover{
+  cursor:pointer;
+  border:solid;
+  border-color: black;
+}
+.image2{
+  height: 300px;
+  width: 300px;
+  border-radius: 12px;
+  display: inline-block;
+}
+.image2:hover{
+  cursor:pointer;
+  border:solid;
+  border-color: black;
+}
+.image3{
+  height: 300px;
+  width: 300px;
+  border-radius: 12px;
+  display: inline-block;
+}
+.image3:hover{
+  cursor:pointer;
+  border:solid;
+  border-color: black;
+}
+.image4{
+  height: 300px;
+  width: 300px;
+  border-radius: 12px;
+  display: inline-block;
+}
+.image4:hover{
+  cursor:pointer;
+  border:solid;
+  border-color: black;
+}
+
+.video{
+  font-family: read-write-plaintext-only;
+  font-size: 45px;
+  font-stretch: 45px;
+  color: white;
+  background-color:  #494D5F;
+}
+.video:hover{
+  cursor: pointer;
+  background-color:  #494D5F;
+  color: black;
+  box-shadow: 0px 0px 1px 0px black;
+}
+
+
+
+
+.content-section-videos-1{
+  display: inline-block;
+ 
+  
+  
+}
+.content-section-videos-2{
+  display: inline-block;
+  
+    
+}
+
+
+
+.content-section-videos-3{
+  display: inline-block;
+}
+
+
+
+.content-section-videos-4{
+  display: inline-block;
+}
+
+
+
+.article{
+  font-family: read-write-plaintext-only;
+  font-size: 45px;
+  font-stretch: 45px;
+  color: white;
+  background-color: #2d5e2c
+}
+.article:hover{
+  cursor: pointer;
+  background-color: #547872;
+  color: black;
+  box-shadow: 0px 0px 1px 0px black;
+}
+
+
+
+.content-section-articles-1{
+  display: inline-block;
+  font-style: italic;
+   font-size: 30px;
+   font-family: arial;
+   font-weight: bold;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+    
+}
+
+.content-section-articles-2{
+  display: inline-block;
+  font-style: italic;
+   font-size: 30px;
+   font-family: arial;
+   font-weight: bold;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+.content-section-articles-3{
+  display: inline-block;
+  font-style: italic;
+   font-size: 30px;
+   font-family: arial;
+   font-weight: bold;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+.content-section-articles-4{
+  display: inline-block;
+  font-style: italic;
+   font-size: 30px;
+   font-family: arial;
+   font-weight: bold;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+.ending-section{
+  font-family: arial;
+  font-size: 40px;
+  background-color: #6b7070;
+  color: #eee2e2;
+  border-radius: 14px;
+}
+.ending-section:hover{
+  background-color: #574c4e;
+  color: white;
+  cursor: pointer;
+}
+.sign-input{
+  height: 40px;
+  width: 300px;
+  border: solid
+  border-color: black;
+  border-radius: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  background-color: #1b3737;
+  font-size: 30px;
+  color: white;
+}
+.sign-input:hover{
+  background-color: #151414;
+  color: white;
+  cursor: pointer;
+}
+
+
+</style>
